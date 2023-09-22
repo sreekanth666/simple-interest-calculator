@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.interestWindow {
+  height: 100vh;
+  width: 100%;
+  
+}
+.interest-card {
+  height: 7rem;
+}
+.interestForm {
+  margin-top: 3rem;
+}
